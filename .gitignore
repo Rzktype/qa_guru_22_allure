@@ -134,10 +134,6 @@ fabric.properties
 hs_err_pid*
 replay_pid*
 
-### Gradle ###
-.gradle
-**/build/
-!src/**/build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -161,12 +157,6 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
-# Project exclude paths
-/.gradle/
-/build/
-/build/classes/java/main/
-/build/classes/java/test/
-
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -175,6 +165,3 @@ gradle-app.setting
 
 ### Allure ###
 .allure
-
-### Gradle ###
-.gradle
