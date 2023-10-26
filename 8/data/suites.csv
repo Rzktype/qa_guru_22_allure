@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Oct 26 07:55:32 GMT 2023","Thu Oct 26 07:55:44 GMT 2023","12231","","IssueTests","","IssueTests","CheckIssueNameWithLambda","Проверка Issue в репозитории qa-guru/knowledge-base с лямбда-шагами через step",""
-"passed","Thu Oct 26 07:55:50 GMT 2023","Thu Oct 26 07:55:56 GMT 2023","6650","","IssueTests","","IssueTests","CheckIssueName","Проверка наличия Issue в репозитории qa-guru/knowledge-base с Listener",""
-"passed","Thu Oct 26 07:55:44 GMT 2023","Thu Oct 26 07:55:50 GMT 2023","5561","","IssueTests","","IssueTests","checkIssueNameWithAnnotatedStep","Проверка Issue в репозитории qa-guru/knowledge-base шагами с аннотацией @Step",""
+"passed","Thu Oct 26 20:57:58 GMT 2023","Thu Oct 26 20:58:04 GMT 2023","5307","","IssueTests","","IssueTests","CheckIssueName","Проверка наличия Issue в репозитории qa-guru/knowledge-base с Listener",""
+"passed","Thu Oct 26 20:57:42 GMT 2023","Thu Oct 26 20:57:54 GMT 2023","11415","","IssueTests","","IssueTests","CheckIssueNameWithLambda","Проверка Issue в репозитории qa-guru/knowledge-base с лямбда-шагами через step",""
+"passed","Thu Oct 26 20:57:54 GMT 2023","Thu Oct 26 20:57:58 GMT 2023","4348","","IssueTests","","IssueTests","checkIssueNameWithAnnotatedStep","Проверка Issue в репозитории qa-guru/knowledge-base шагами с аннотацией @Step",""
