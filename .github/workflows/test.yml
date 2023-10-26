@@ -4,7 +4,7 @@ on: workflow_dispatch
 
 jobs:
   test:
-    # где заускаем
+    # где заускаем2
     runs-on: ubuntu-latest
     # что делаем
     steps:
